@@ -1,0 +1,15 @@
+# 認証情報定義ファイル（平文パスワード漏洩防止）
+db_input.json
+
+# DPAPI暗号化出力ファイル
+*.xml
+db_credentials.xml
+
+# ログファイル
+*.log
+db_credentials.log
+
+# 一時ファイル・バックアップ
+*.tmp
+*.bak
+*~
