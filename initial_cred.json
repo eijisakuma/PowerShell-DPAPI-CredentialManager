@@ -1,0 +1,5 @@
+{
+  "TargetName": "MyTargetService",
+  "UserName": "admin_user",
+  "Password": "MySecretPassword123"
+}
